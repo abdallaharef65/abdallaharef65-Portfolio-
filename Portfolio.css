@@ -299,7 +299,7 @@ padding: 0px 20px;
 }
 
 .home .container .nav li a span:hover{
-    border-left: #FF5D55 15px solid;
+    border-left: var(--main--color) 15px solid;
 }
 .home .container .homeContent{
     width: 70%;
